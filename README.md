@@ -7,15 +7,23 @@ The application demonstrates how to use JavaScript DOM manipulation, event handl
 This project is ideal for beginners looking to improve their frontend development skills by building practical and visually appealing UI components.
 
 ✨ Features
+
 🖼️ Dynamic image gallery
+
 🔍 Filter images by category
+
 ⚡ Smooth transitions & animations
+
 🎨 Clean and modern UI
+
 📱 Fully responsive design
 
 🛠️ Tech Stack
+
 HTML5 – Structure
+
 CSS3 – Styling
+
 JavaScript (ES6) – Filtering logic
 
 
